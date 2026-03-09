@@ -1,0 +1,14 @@
+{
+  "name": "poe-mirage-build-finder-backend",
+  "version": "1.0.0",
+  "description": "PoE Mirage Build Finder API - PoE 1 Mirage League (3.28)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "axios": "^1.6.0"
+  }
+}
