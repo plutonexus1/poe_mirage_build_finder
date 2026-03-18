@@ -202,7 +202,7 @@ export default function App() {
       </main>
 
       <footer style={styles.footer}>
-        <p>PoE Mirage Build Finder — Community build research dashboard for PoE 1 Mirage League (3.28)</p>
+        <p>PoE Mirage Build Finder — Top 10 builds for PoE 1 Mirage League (3.28) · Data updated March 2026</p>
       </footer>
     </div>
   );
